@@ -34,7 +34,6 @@ The pipeline closely follows methods and findings from key MOSDEF papers (Shaple
 
 ## Requirements
 
-```bash
 pip install numpy pandas matplotlib seaborn astropy scipy scikit-learn
 
 ## Key Scientific Results (from this analysis)
